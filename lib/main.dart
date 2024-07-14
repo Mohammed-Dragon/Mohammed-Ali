@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
       /*BlocProvider(
             create: (context) => FilterCubitCubit(),
             child: FastFilterBarUsingCubit(),
-          ),*/
+          ), */
     );
   }
 }
